@@ -12,6 +12,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "jest": {
+    "testEnvironment": "node"
+  },
   "description": "NASA Mission Control API",
   "dependencies": {
     "cors": "^2.8.5",
